@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: spring-boot-app
-        image: asherzion/asher-e2e:replaceImageTag
+        image: asherzion/asher-e2e:2
         ports:
         - containerPort: 8080
